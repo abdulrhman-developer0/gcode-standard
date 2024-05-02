@@ -1,0 +1,18 @@
+{
+    "name": "grahicode/gcode-standard",
+    "description": "this the standard base code utlities for graphicode",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Grahicode\\GcodeStandard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yes"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
